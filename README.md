@@ -138,8 +138,9 @@ For a full overview of all the available papers, please check the course tree in
     │   ├───monsoon_24
     │   └───monsoon_25
     ├───Physics of the Early Universe
-    │   └───monsoon_24
-    │       └───assignments
+    │   ├───monsoon_24
+    │   │   └───assignments
+    │   └───monsoon_25
     ├───Readings from Hindi Literature
     │   ├───monsoon_24
     │   └───monsoon_25
