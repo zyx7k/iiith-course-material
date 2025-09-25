@@ -82,8 +82,8 @@ For a full overview of all the available papers, please check the course tree in
     ├───Algorithms and Operating Systems
     │   ├───monsoon_24
     │   └───monsoon_25
-    ├───Analog Integrated Circuit Design
-    │   └───spring_25
+    ├───Analog Integrated Circuit design
+    │   └───monsoon_24
     ├───Basics of Ethics (H1 & H2)
     │   └───monsoon_25
     ├───Behavioral Research and Experiment Design
@@ -91,6 +91,8 @@ For a full overview of all the available papers, please check the course tree in
     ├───Behavioral Research Statistical Methods
     │   └───spring_25
     │       └───assignments
+    ├───CMOS References And Regulators
+    │   └───monsoon_24
     ├───Communications and Controls in IoT
     │   └───spring_24
     ├───Computer Graphics
@@ -133,6 +135,8 @@ For a full overview of all the available papers, please check the course tree in
     │       └───assignments
     ├───Introduction to Spatial Science and Technology
     │   └───spring_24
+    ├───Linear Partial Differential Equations and Variational Calculus
+    │   └───spring_25
     ├───Mobile Robotics
     │   └───monsoon_24
     ├───Modern Complexity Theory
@@ -143,8 +147,12 @@ For a full overview of all the available papers, please check the course tree in
     │   ├───monsoon_24
     │   │   └───assignments
     │   └───monsoon_25
+    ├───Quantum Materials and Devices
+    │   └───monsoon_25
     ├───Readings from Hindi Literature
     │   ├───monsoon_24
+    │   └───monsoon_25
+    ├───Robotics - Dynamics And Controls
     │   └───monsoon_25
     ├───Signal Detection and Estimation Theory
     │   ├───monsoon_24
@@ -154,6 +162,8 @@ For a full overview of all the available papers, please check the course tree in
     ├───Statistical Methods in AI
     │   └───monsoon_24
     │       └───assignments
+    ├───The Gutenberg Parenthesis
+    │   └───monsoon_24
     └───Topics in Applied Optimization
         └───monsoon_24
 ```
