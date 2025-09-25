@@ -82,6 +82,8 @@ For a full overview of all the available papers, please check the course tree in
     ├───Algorithms and Operating Systems
     │   ├───monsoon_24
     │   └───monsoon_25
+    ├───Analog Integrated Circuit Design
+    │   └───spring_25
     ├───Basics of Ethics (H1 & H2)
     │   └───monsoon_25
     ├───Behavioral Research and Experiment Design
